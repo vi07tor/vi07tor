@@ -20,8 +20,6 @@
 
 ## 💻 Linguagens de Programação
 
-## 💻 Linguagens de Programação
-
 | Linguagens                                                                 | GitHub Stats                                                                 |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | - 🐍 — Python<br>- ☕ — Java<br>- 🛢️ — Banco de Dados (MySQL)<br>- 🌐 — JavaScript / CSS / Web<br>- 📄 — HTML | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vi07tor&layout=compact&theme=tokyonight) |
