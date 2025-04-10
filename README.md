@@ -20,17 +20,11 @@
 
 ## 💻 Linguagens de Programação
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div>
-    - 🐍 — Python<br>
-    - ☕ — Java<br>
-    - 🛢️ — Banco de Dados (MySQL)<br>
-    - 🌐 — JavaScript / CSS / Web<br>
-    - 📄 — HTML
-  </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vi07tor&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
+## 💻 Linguagens de Programação
 
+| Linguagens                                                                 | GitHub Stats                                                                 |
+|----------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| - 🐍 — Python<br>- ☕ — Java<br>- 🛢️ — Banco de Dados (MySQL)<br>- 🌐 — JavaScript / CSS / Web<br>- 📄 — HTML | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vi07tor&layout=compact&theme=tokyonight) |
 
 ---
 
