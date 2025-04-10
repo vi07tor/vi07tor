@@ -20,14 +20,17 @@
 
 ## 💻 Linguagens de Programação
 
-- 🐍 — Python  
-- ☕ — Java  
-- 🛢️ — Banco de Dados (MySQL)  
-- 🌐 — JavaScript / CSS / Web  
-- 📄 — HTML
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    - 🐍 — Python<br>
+    - ☕ — Java<br>
+    - 🛢️ — Banco de Dados (MySQL)<br>
+    - 🌐 — JavaScript / CSS / Web<br>
+    - 📄 — HTML
+  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vi07tor&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedraomk&layout=compact&theme=tokyonight)
 
 ---
 
