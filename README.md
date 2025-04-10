@@ -36,8 +36,8 @@
   <a href="https://mail.google.com/mail/?view=cm&to=vi07tor@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://wa.me/47984186575">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <a href="https://wa.me/47984186575?text=Olá%2C%20Vitor!%20Vim%20pelo%20seu%20GitHub." target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Vitor-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="https://www.linkedin.com/in/vitor-kreutzfeld-492b82247">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
