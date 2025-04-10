@@ -28,6 +28,16 @@
 
 ---
 
+<div align="center">
+  <a href="https://github.com/luccasilva2">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccasilva2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vi07tor&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vi07tor&theme=tokyonight" alt="vi07tor" />
+  </a>
+</div>
+
+---
+
 ## 🎨 Design e Escritório
 
 - 🎨 — Canva (Design gráfico)  
