@@ -14,7 +14,7 @@
 
 ## 🌍 Idiomas
 
-- Inglês Intermediário (B1/B2)
+- Inglês (B2/C1)
 
 ---
 
